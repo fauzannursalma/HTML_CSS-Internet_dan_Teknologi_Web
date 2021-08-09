@@ -1,0 +1,41 @@
+body
+{
+	background-image: url(space.jpg); 
+}
+
+.header h1
+{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	font-family: Lucida Sans Unicode;
+	margin-top: 5px;
+	margin-bottom:15px;
+	padding: 18px;
+	text-align: center;
+
+}
+
+.index
+{	
+
+	font-size: 25px;
+	margin-right: 30px;
+	color: white;
+	text-align: center;
+	background-color: lightgray;
+	padding: 15px;
+}
+
+a.index
+{
+	color: white;
+}
+
+.footer
+{	
+
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 40px;
+}

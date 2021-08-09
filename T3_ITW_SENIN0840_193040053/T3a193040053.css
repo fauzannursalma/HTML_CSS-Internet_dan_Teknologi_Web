@@ -1,0 +1,127 @@
+body
+{
+	font :15px/25px;
+	background-image: url(back.jpg);
+}
+
+.container
+{
+	width: 850px;
+	margin: auto;
+	color: #111;
+	background-color: #fff;
+	font-family:Times New Roman;
+	
+}
+.header 
+{
+	padding: 18px;
+	padding-bottom: 7px;
+}
+
+.header h1
+{
+	font-size: 70px;
+	font-weight: bold;
+	color: navy;
+	font-family: Comic Sans MS;
+	margin-top: 5px;
+	margin-bottom:15px;
+	padding: 18px;
+
+}
+
+.header ul li
+{
+	font-size: 20px;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: -50px;
+	color: black;
+
+}
+.header a 
+{
+	text-decoration: none;
+}
+
+.header a:hover
+{
+	background-color: navy;
+	color: white;
+
+}
+.content 
+{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding: 5px;
+	margin: 18px;
+
+
+
+ }
+
+
+.microsoft1
+{
+	height: 550px;
+	background-image:url(microsoft.jpg);
+	background-position: center;
+	border-top: 5px solid red;
+	border-bottom: 5px solid blue;
+}
+
+
+
+
+
+.penulis 
+{
+	font-size: 13px;
+	margin: 12px;
+}
+.penulis a
+{
+	text-decoration: none;
+}
+
+.paragraf1 p
+{
+	margin:18px;
+	padding:5px;
+	font-size: 18px;
+
+}
+
+.microsoft2 
+{
+	height: 550px;
+	background-image: url(layar.jpg);
+
+}
+
+.paragraf2 p
+{
+	margin: 18px;
+	padding:5px;
+	font-size: 18px;
+}
+
+
+
+
+
+.footer
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 1px;
+
+}
+
+		
+

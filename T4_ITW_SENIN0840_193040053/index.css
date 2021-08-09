@@ -1,0 +1,25 @@
+h2 { 
+	text-align: center; 
+	font-size: 60px;
+	font-family: Agency FB;
+	padding-top: 50px;
+	text-decoration: underline;
+	}
+p { 
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+}
+.top-bar {
+			position: fixed;
+			top: 0;
+			left:0;
+			right: 0;
+			height: 90px;
+			background-color: navy;
+			border-bottom: 3px solid white ;
+			z-index: 99999;
+			text-align: center;
+			font-family: Agency FB;
+			color: white;
+

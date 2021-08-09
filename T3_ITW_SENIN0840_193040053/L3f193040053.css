@@ -1,0 +1,65 @@
+.container
+{
+	border: 1px solid black;
+	width: 800px;
+	margin: 500px 270px;
+	margin-top: 500px;
+	border-style: double;
+	border-width: 5px;
+	border-color: seagreen;
+	background-color: lightblue;
+	font-family: arial;
+}
+
+.header {
+	width: 800px;
+	text-align: center;
+	margin-top: -22px;
+	height: 40px;
+	background-color: black;
+	background-color: darkblue;
+	color: red;
+}
+
+h3 {
+	padding-top: 150px;
+	padding-left: 20px;
+	text-align: center;
+	color: red;
+}
+
+p {
+	padding: 8px;
+	text-indent: 20px;
+	text-align: 8px;
+}
+#p1 {
+	padding-top: 0px;
+}
+.image{
+	margin: 10px 290px -110px;
+	width: 200px;
+	height: 150px;
+}
+
+img {
+	width: 250px;
+	height: 150px;
+	padding-top: 20px;
+}
+
+.footer {
+	height: 70px;
+	background-color: darkblue;
+	color: white;
+	padding-top: 10px;
+}
+#pfooter {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+i,b
+{
+	color: white;
+}

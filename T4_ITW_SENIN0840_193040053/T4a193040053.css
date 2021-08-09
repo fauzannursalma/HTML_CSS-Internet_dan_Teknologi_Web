@@ -1,0 +1,168 @@
+body
+{
+	font :15px/25px;
+	background-image: url(back.jpg);
+}
+.top-bar {
+			position: fixed;
+			top: 0;
+			left:0;
+			right: 0;
+			height: 50px;
+			background-color: navy;
+			border-bottom: 3px solid white ;
+			z-index: 99999;
+			text-align: center;
+			font-family: Agency FB;
+			color: white;
+		
+}
+.container
+{
+	width: 850px;
+	margin: 53px auto;
+	color: #111;
+	background-color: #fff;
+	font-family:Times New Roman;
+	position: relative;
+	
+}
+.facebook {
+			width: 500px;
+			height:500px;
+			background-image: url(fb.png);
+			background-repeat: no-repeat;
+			display: inline-block;
+			text-indent: -9999px;
+			position: absolute;
+			top: 0px;
+			right: -300px;
+}
+
+.header 
+{
+	padding: 18px;
+	padding-bottom: 7px;
+}
+
+.header h1
+{
+	font-size: 70px;
+	font-weight: bold;
+	color: maroon;
+	font-family: Agency FB;
+	margin-top: 5px;
+	margin-bottom:15px;
+	padding: 18px;
+
+}
+
+.header ul li
+{
+	font-size: 20px;
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 20px;
+ 	margin-bottom: -50px;
+	color: black;
+
+}
+.header a 
+{
+	text-decoration: none;
+}
+
+.header a:hover
+{
+	background-color: navy;
+	color: white;
+
+}
+.head {
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 10px;
+
+}
+.content 
+{
+	width: 550px;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: -50px;
+	margin: 18px;
+	float:left;
+
+
+
+
+ }
+
+
+.microsoft1
+{
+	height: 550px;
+	background-image:url(microsoft.jpg);
+	background-position: center;
+	border-top: 5px solid red;
+	border-bottom: 5px solid blue;
+}
+
+
+.penulis 
+{
+	font-size: 13px;
+	margin: 12px;
+}
+.penulis a
+{
+	text-decoration: none;
+}
+
+.paragraf1 p
+{
+	margin:18px;
+	padding:5px;
+	font-size: 18px;
+
+}
+
+
+.paragraf2 p
+{
+	margin: 18px;
+	padding:5px;
+	font-size: 18px;
+}
+
+.content .sidebar {
+			
+			float: left;
+}
+.sidebar {	
+			padding-top: 20px;
+			padding-right: 20px;
+
+}
+.sidebar img {
+float: left;
+padding-right: 10px; 
+width: 100px; }
+
+.gambar img {
+				width: 30px;	
+}
+
+.clear { clear: both; }
+
+.footer
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 1px;
+
+}
+
+		
+

@@ -1,0 +1,163 @@
+/* Navbar */
+nav, nav a {
+    text-transform: uppercase;
+    color: white;
+
+}
+.navo {
+    height: 50px;
+}
+
+
+nav a:hover {
+    color: red;
+
+}
+
+.services img{
+    width: 60px;
+    position: relative;
+}
+
+iframe {
+    height: 300px;
+    width: 318px;
+}
+
+
+.jum h3 {
+    
+    margin-left: 20px;
+}
+
+.main h1 {
+    font-weight: 100;
+     
+}
+
+.main p {
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+}
+
+.main button {
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.card-body {
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-img {
+    position: absolute;
+    bottom: -10px;
+    right: 28px;
+    width: 50%;
+}
+.slider h2,
+.slider h3,
+.slider h5,
+.clients h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+
+.parallax-container {
+				height: 20%; 
+}
+
+.parallax img {
+				filter: grayscale(1);
+				opacity: 0.5 !important;
+}
+
+.clients img {
+				max-width: 150px;
+				filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+section, footer {
+	padding:20px 0;
+}
+
+.navfoot a, .navfoot p, .jum, .service h5 {
+					font-family: 'Orbitron', sans-serif;
+						
+}
+
+
+.navbar {
+    position: relative;
+    z-index:1;
+}
+
+
+/* cars */
+.bugatti img {
+    position: relative;
+    width: 30px;
+}
+
+.lamborghini img{
+    position: relative;
+    width: 22px;
+}
+.ferrari img {
+    position: relative;
+    width: 40px;
+}
+.chevrolet img {
+    position: relative;
+    width: 40px;
+}
+.mclaren img {
+    position: relative;
+    width: 45px;
+}
+.tesla img {
+    position: relative;
+    width: 30px;
+
+}
+
+
+.contact img {
+    width: 30px;
+    margin-top: 10px;
+    position: relative;
+    
+}
+
+.contact {
+    margin-top: 10px;
+}
+
+
+@media (min-width: 992px) {
+	.nav-link  {
+        color: white !important;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+    }
+    .nav-link {
+        text-transform: uppercase;
+        margin-right: 0px;
+    }
+
+    .nav-link:hover::after{
+        content: '';
+        display: block;
+        border-bottom: 3px solid red;
+        width: 100%;
+        margin: auto;
+        padding-bottom: 5px;
+		margin-top: -20px;
+		
+        
+        
+	}
+}
